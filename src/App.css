@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.hillsContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.moleOption {
+  margin: 3em;
+}
+
+.score {
+  color: darkcyan;
+  font-size: 50px;
+}
